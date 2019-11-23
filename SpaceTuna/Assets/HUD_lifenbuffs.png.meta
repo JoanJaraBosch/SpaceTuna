@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 75949cfeb6205d140b017c8abd3c56f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -961845608594564112
+    second: HUD_lifenbuffs_0
+  - first:
+      213: 7808589449737508929
+    second: HUD_lifenbuffs_1
+  - first:
+      213: 2748020443031076663
+    second: HUD_lifenbuffs_2
+  - first:
+      213: -8237934360043092604
+    second: HUD_lifenbuffs_3
+  - first:
+      213: 6852722859935018580
+    second: HUD_lifenbuffs_4
+  - first:
+      213: 38791578486990994
+    second: HUD_lifenbuffs_5
+  - first:
+      213: 2010801514119917767
+    second: HUD_lifenbuffs_6
+  - first:
+      213: 3269730104886177085
+    second: HUD_lifenbuffs_7
+  - first:
+      213: 9154236159629402071
+    second: HUD_lifenbuffs_8
+  - first:
+      213: 553786252234372000
+    second: HUD_lifenbuffs_9
+  - first:
+      213: -2246372839431503086
+    second: HUD_lifenbuffs_10
+  - first:
+      213: -9196767254524800523
+    second: HUD_lifenbuffs_11
+  - first:
+      213: 8421370272864156308
+    second: HUD_lifenbuffs_12
+  - first:
+      213: 7343022186633776002
+    second: HUD_lifenbuffs_13
+  - first:
+      213: -4556186126613005712
+    second: HUD_lifenbuffs_14
+  - first:
+      213: 5926926638822016771
+    second: HUD_lifenbuffs_15
+  - first:
+      213: -1202212509138536710
+    second: HUD_lifenbuffs_16
+  - first:
+      213: 4338053183954922597
+    second: HUD_lifenbuffs_17
+  - first:
+      213: 8693775408513860769
+    second: HUD_lifenbuffs_18
+  - first:
+      213: 722953317667053695
+    second: HUD_lifenbuffs_19
+  - first:
+      213: 201791260932253138
+    second: HUD_lifenbuffs_20
+  - first:
+      213: 7261272470632335857
+    second: HUD_lifenbuffs_21
+  - first:
+      213: 4328230642590393256
+    second: HUD_lifenbuffs_22
+  - first:
+      213: 6048684161915868132
+    second: HUD_lifenbuffs_23
+  - first:
+      213: -6344974885350712736
+    second: HUD_lifenbuffs_24
+  - first:
+      213: 3718573737437877271
+    second: HUD_lifenbuffs_25
+  - first:
+      213: -8591095284536699015
+    second: HUD_lifenbuffs_26
+  - first:
+      213: 7479196111908982850
+    second: HUD_lifenbuffs_27
+  - first:
+      213: -3606040262826629639
+    second: HUD_lifenbuffs_28
+  - first:
+      213: 216178842797516891
+    second: HUD_lifenbuffs_29
+  - first:
+      213: -8741633707485760288
+    second: HUD_lifenbuffs_30
+  - first:
+      213: 2877722990388348167
+    second: HUD_lifenbuffs_31
+  - first:
+      213: -6315298665903817965
+    second: HUD_lifenbuffs_32
+  - first:
+      213: -3976449573512850444
+    second: vida
+  - first:
+      213: -6087531443826181599
+    second: HUD_lifenbuffs_34
+  - first:
+      213: 8066550611703593021
+    second: HUD_lifenbuffs_35
+  - first:
+      213: -2723178837002219602
+    second: HUD_lifenbuffs_36
+  - first:
+      213: -6633151251869753268
+    second: HUD_lifenbuffs_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3b0b4f8709c04a9a481ecc8435d7d
+      internalID: -961845608594564112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 689
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0daee965a98b41952a412602513cd
+      internalID: 7808589449737508929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee3f1e987674004d83a7f0c7ddf59d3
+      internalID: 2748020443031076663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617554733a1d044099c0a6b5573b429
+      internalID: -8237934360043092604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95665df2526567c4ca89512e53675a18
+      internalID: 6852722859935018580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe429d3b9ea334b86125bd8f4607d4
+      internalID: 38791578486990994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad7cc96d0b68d4bbfa5f1f4d4ed2ac
+      internalID: 2010801514119917767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d672b7df99aa34f82d4ee9da3e7d07
+      internalID: 3269730104886177085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5cffe4f1b11242a4193b0089d68b7
+      internalID: 9154236159629402071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1983df9c4ef8354aa5c5f77acb651ea
+      internalID: 553786252234372000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63408c859779d4393b1132003a15c7
+      internalID: -2246372839431503086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b2c9ebecd8904ab27dbaeef865db5
+      internalID: -9196767254524800523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec8dd576dc5c946846f1cf59132434
+      internalID: 8421370272864156308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 416
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bfbb41bc670847af5bfaff7fec2b4
+      internalID: 7343022186633776002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 416
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3fffaaa52dc740a7573e930b214c1
+      internalID: -4556186126613005712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 416
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa902cb618135a4e977faf95623d039
+      internalID: 5926926638822016771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 416
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44acde211eb9a544c985ffc162637964
+      internalID: -1202212509138536710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 416
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b202cb6aee584d44d8c35961e42a29ab
+      internalID: 4338053183954922597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 319
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f3c8c114459434cb5ccae54402dd3b
+      internalID: 8693775408513860769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 319
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5243f0f974b54f85e15913478016c
+      internalID: 722953317667053695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 320
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5bf84bbc35904da5511069cfb6d2d
+      internalID: 201791260932253138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 319
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c5a8bebe3883a49bd06344be5d456d
+      internalID: 7261272470632335857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 319
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095633ca0396d84db3a0bbf24c17e1f
+      internalID: 4328230642590393256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60fb823661a49449978ba3998b7b1ec
+      internalID: 6048684161915868132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 223
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf5c2a73db1214d854a8b9e2a4d382
+      internalID: -6344974885350712736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 224
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8f874afc03e248a2e18dc5dc8aaaa
+      internalID: 3718573737437877271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 223
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a6832601100745a32116ba8896a11
+      internalID: -8591095284536699015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 223
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0552c74a9b38ad54aa0ce0358c284abb
+      internalID: 7479196111908982850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b315dcca5fdeb43ba2dee3c3f6bbca
+      internalID: -3606040262826629639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac853ef1b588964a852ee58ed7fce41
+      internalID: 216178842797516891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 128
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca03431957eceaf4fbea054cc36d6d45
+      internalID: -8741633707485760288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f815e793effb745b4a200d4b12346f
+      internalID: 2877722990388348167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 127
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71635e0218722114f8e3fce8c2a84b11
+      internalID: -6315298665903817965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vida
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e15bab6737d743adc8d1e07ac096d
+      internalID: -3976449573512850444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e28fc082b11614fa2299b0ece95325
+      internalID: -6087531443826181599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 32
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632914e4aa063147b518d3d63ccfc1d
+      internalID: 8066550611703593021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafebe7087b80ad4e94f39e9760009d5
+      internalID: -2723178837002219602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_lifenbuffs_37
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 32
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b16cc3c57025854b902ec2cb08c9bb3
+      internalID: -6633151251869753268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

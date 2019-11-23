@@ -53,8 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Attack.cs" />
      <Compile Include="Assets\Scripts\FollowCharacter.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\Spawn.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Joan Jara/Documents/GitHub/SpaceTuna/SpaceTuna/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

@@ -8,10 +8,12 @@ public class Movement : MonoBehaviour
     [SerializeField]
     float speed;
 
-    private bool _isGrounded = true; // is player on the ground?
+    [SerializeField]
+    GameObject attack;
+
+    private bool faceR = true; // is player on the ground?
     private float time;
     Animator animator;
-
     //some flags to check when certain animations are playing
     bool _isPlaying_death = false;
     bool _isPlaying_jump = false;
@@ -37,17 +39,22 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        _isPlaying_death = false;
+        _isPlaying_walk = false;
+        _isPlaying_run = false;
         float movementHoritzontal = Input.GetAxis("Horizontal");
         // Debug.Log(movementHoritzontal);
         float movementVertical = Input.GetAxis("Vertical");
         Vector2 movement = new Vector2(movementHoritzontal,movementVertical);
-        
+
         if (movementHoritzontal < 0)
         {
             if(_currentAnimationState != STATE_WALK) animator.SetInteger("state", STATE_WALK);
             transform.localRotation = Quaternion.Euler(0, 180, 0);
             transform.position += Vector3.right * -speed * Time.deltaTime;
+            faceR = false;
             time = 0;
+            _isPlaying_jump = false;
         }
 
         if (movementHoritzontal > 0)
@@ -55,18 +62,51 @@ public class Movement : MonoBehaviour
             if (_currentAnimationState != STATE_WALK) animator.SetInteger("state", STATE_WALK);
             transform.localRotation = Quaternion.Euler(0, 0, 0);
             transform.position += Vector3.right * speed * Time.deltaTime;
+            faceR = true;
             time = 0;
+            _isPlaying_jump = false;
         }
 
         if (movementVertical > 0)
         {
             if (_currentAnimationState != STATE_JUMP) animator.SetInteger("state", STATE_JUMP);
             transform.position += Vector3.up * +speed * Time.deltaTime;
+            _isPlaying_jump = true;
             time = 0;
         }
 
-        if(time>0.01f) animator.SetInteger("state", STATE_IDLE);
+        if (time > 0.01f && _isPlaying_jump == false ) animator.SetInteger("state", STATE_IDLE);
+        else if (time > 0.5f)
+        {
+            animator.SetInteger("state", STATE_IDLE);
+            _isPlaying_jump = false; 
+        }
 
         time += Time.deltaTime;
+
+        if (Input.GetKeyDown("space")){
+            if (faceR)
+            {
+                Instantiate(attack, new Vector2(this.gameObject.transform.position.x + 1, this.gameObject.transform.position.y), Quaternion.Euler(0, 180, 0));
+            }
+            else
+            {
+                attack.transform.localRotation = Quaternion.Euler(0, 180, 0);
+                Instantiate(attack, new Vector2(this.gameObject.transform.position.x - 1, this.gameObject.transform.position.y), Quaternion.Euler(0, 0, 0));
+            }
+        }
+
+    }
+
+    void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.name == "background")
+        {
+            if (animator.GetInteger("state").Equals(STATE_JUMP))
+            {
+                animator.SetInteger("state", STATE_IDLE);
+                _isPlaying_jump = false;
+            }
+        }
     }
 }

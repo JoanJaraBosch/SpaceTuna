@@ -18,7 +18,7 @@ public class FollowCharacter : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if (player.transform.position.y >= -3.19 )
+        if (player.transform.position.y >= -3.71 && player.transform.position.x >= -5.675738)
         {
            // Vector3 nouT =new Vector3(player.position.x, player.position.y, transform.position.z);
             //transform.position = Vector3.SmoothDamp(transform.position,nouT,ref velocity, 0.15f);
