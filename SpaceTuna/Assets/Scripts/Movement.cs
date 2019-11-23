@@ -61,7 +61,7 @@ public class Movement : MonoBehaviour
         if (movementVertical > 0)
         {
             if (_currentAnimationState != STATE_JUMP) animator.SetInteger("state", STATE_JUMP);
-            transform.position += Vector3.up * +speed * Time.deltaTime;
+            transform.position += Vector3.up * (3f + speed) * Time.deltaTime;
             time = 0;
         }
 
