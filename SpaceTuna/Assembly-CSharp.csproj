@@ -55,6 +55,13 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\FollowCharacter.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\Spawn.cs" />
+     <Compile Include="Assets\Scripts\canvi_escena.cs" />
+     <Compile Include="Assets\Scripts\comeBack.cs" />
+     <Compile Include="Assets\Scripts\enemy.cs" />
+     <Compile Include="Assets\Scripts\mort_caiguda.cs" />
+     <Compile Include="Assets\Scripts\newcanviescena.cs" />
+     <Compile Include="Assets\Scripts\trigerItem.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Joan Jara/Documents/GitHub/SpaceTuna/SpaceTuna/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
