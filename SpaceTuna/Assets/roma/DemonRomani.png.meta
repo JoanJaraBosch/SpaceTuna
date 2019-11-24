@@ -1,0 +1,5155 @@
+fileFormatVersion: 2
+guid: 7c97909dc0e37a64cbc1733bf9952460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 460699196857965359
+    second: DemonRomani_0
+  - first:
+      213: 3679408048617477665
+    second: DemonRomani_1
+  - first:
+      213: 6746717011216903408
+    second: DemonRomani_2
+  - first:
+      213: -6970579265731102937
+    second: DemonRomani_3
+  - first:
+      213: 8621737403648594537
+    second: DemonRomani_4
+  - first:
+      213: 2976336092956072696
+    second: DemonRomani_5
+  - first:
+      213: 3908665752268001352
+    second: DemonRomani_6
+  - first:
+      213: -8942986860710306366
+    second: DemonRomani_7
+  - first:
+      213: 1945240468399152620
+    second: DemonRomani_8
+  - first:
+      213: -793441660369120963
+    second: DemonRomani_9
+  - first:
+      213: -1880984605912543615
+    second: DemonRomani_10
+  - first:
+      213: -6093115437197210501
+    second: DemonRomani_11
+  - first:
+      213: 7428605274459277332
+    second: DemonRomani_12
+  - first:
+      213: -5136037280038008018
+    second: DemonRomani_13
+  - first:
+      213: -8243560557091755800
+    second: DemonRomani_14
+  - first:
+      213: -4285431912882375903
+    second: DemonRomani_15
+  - first:
+      213: -5520810193567762546
+    second: DemonRomani_16
+  - first:
+      213: -2553420604053435174
+    second: DemonRomani_17
+  - first:
+      213: -8117249848719168660
+    second: DemonRomani_18
+  - first:
+      213: -6032318590196648023
+    second: DemonRomani_19
+  - first:
+      213: -503743900641799556
+    second: DemonRomani_20
+  - first:
+      213: -8944915137834762496
+    second: DemonRomani_21
+  - first:
+      213: -4814032825096388173
+    second: DemonRomani_22
+  - first:
+      213: 6980167530546611514
+    second: DemonRomani_23
+  - first:
+      213: 5598383266026251965
+    second: DemonRomani_24
+  - first:
+      213: -8619555870770564783
+    second: DemonRomani_25
+  - first:
+      213: 8613804450307061632
+    second: DemonRomani_26
+  - first:
+      213: 7474492039123419075
+    second: DemonRomani_27
+  - first:
+      213: 3638273211502248590
+    second: DemonRomani_28
+  - first:
+      213: 4575235448577082293
+    second: DemonRomani_29
+  - first:
+      213: 1298926987931105291
+    second: DemonRomani_30
+  - first:
+      213: -8017740686171204733
+    second: DemonRomani_31
+  - first:
+      213: -2526144482363526405
+    second: DemonRomani_32
+  - first:
+      213: 3399898829561935760
+    second: DemonRomani_33
+  - first:
+      213: -4371422071585516029
+    second: DemonRomani_34
+  - first:
+      213: 5956422118250927643
+    second: DemonRomani_35
+  - first:
+      213: -5368478284253832436
+    second: DemonRomani_36
+  - first:
+      213: -5487500243315180294
+    second: DemonRomani_37
+  - first:
+      213: 576800432256043876
+    second: DemonRomani_38
+  - first:
+      213: 1911922146273310471
+    second: DemonRomani_39
+  - first:
+      213: 1124391404627248141
+    second: DemonRomani_40
+  - first:
+      213: -5557463955877818635
+    second: DemonRomani_41
+  - first:
+      213: 2333247795467166985
+    second: DemonRomani_42
+  - first:
+      213: -9158333393427163760
+    second: DemonRomani_43
+  - first:
+      213: -1789979142917005605
+    second: DemonRomani_44
+  - first:
+      213: -6286859371442206922
+    second: DemonRomani_45
+  - first:
+      213: 1300367321886547022
+    second: DemonRomani_46
+  - first:
+      213: -856296456799865048
+    second: DemonRomani_47
+  - first:
+      213: 363320238860218246
+    second: DemonRomani_48
+  - first:
+      213: -8582579294392210984
+    second: DemonRomani_49
+  - first:
+      213: -5292268340264252187
+    second: DemonRomani_50
+  - first:
+      213: 4312893052341544666
+    second: DemonRomani_51
+  - first:
+      213: 2677015671259121792
+    second: DemonRomani_52
+  - first:
+      213: 1512299250291378251
+    second: DemonRomani_53
+  - first:
+      213: 335861311212397063
+    second: DemonRomani_54
+  - first:
+      213: -93319402028873746
+    second: DemonRomani_55
+  - first:
+      213: -1494453580571251546
+    second: DemonRomani_56
+  - first:
+      213: 4387424304689596785
+    second: DemonRomani_57
+  - first:
+      213: -6873821281180981231
+    second: DemonRomani_58
+  - first:
+      213: -337704556247152791
+    second: DemonRomani_59
+  - first:
+      213: 1745437368253068464
+    second: DemonRomani_60
+  - first:
+      213: 2967754332506286799
+    second: DemonRomani_61
+  - first:
+      213: -8302511838149018977
+    second: DemonRomani_62
+  - first:
+      213: 7632275339141071841
+    second: DemonRomani_63
+  - first:
+      213: -6732287456430537506
+    second: DemonRomani_64
+  - first:
+      213: -723062665390812551
+    second: DemonRomani_65
+  - first:
+      213: -544895520400882779
+    second: DemonRomani_66
+  - first:
+      213: -8746053906501356181
+    second: DemonRomani_67
+  - first:
+      213: -5026123236010661900
+    second: DemonRomani_68
+  - first:
+      213: -6776866389311543003
+    second: DemonRomani_69
+  - first:
+      213: 1524479932458786309
+    second: DemonRomani_70
+  - first:
+      213: -4775022799689835867
+    second: DemonRomani_71
+  - first:
+      213: 2712474395295196183
+    second: DemonRomani_72
+  - first:
+      213: -58376715979460916
+    second: DemonRomani_73
+  - first:
+      213: 8872990426858250387
+    second: DemonRomani_74
+  - first:
+      213: -4187310044340309524
+    second: DemonRomani_75
+  - first:
+      213: 4114187459617495747
+    second: DemonRomani_76
+  - first:
+      213: 387796996749506810
+    second: DemonRomani_77
+  - first:
+      213: 3637156238936701298
+    second: DemonRomani_78
+  - first:
+      213: 5662537907662797196
+    second: DemonRomani_79
+  - first:
+      213: 2650759416786258694
+    second: DemonRomani_80
+  - first:
+      213: 8247238519101099534
+    second: DemonRomani_81
+  - first:
+      213: 6400872825900026075
+    second: DemonRomani_82
+  - first:
+      213: -475519400289303362
+    second: DemonRomani_83
+  - first:
+      213: 2888794845116706448
+    second: DemonRomani_84
+  - first:
+      213: 4814649608577548374
+    second: DemonRomani_85
+  - first:
+      213: 1283867880350756460
+    second: DemonRomani_86
+  - first:
+      213: -2500026636940720917
+    second: DemonRomani_87
+  - first:
+      213: 154435043791772327
+    second: DemonRomani_88
+  - first:
+      213: -4897681768686000838
+    second: DemonRomani_89
+  - first:
+      213: 5998970398264139736
+    second: DemonRomani_90
+  - first:
+      213: -3848063803488380606
+    second: DemonRomani_91
+  - first:
+      213: 7161124171827983680
+    second: DemonRomani_92
+  - first:
+      213: -4460159262905528438
+    second: DemonRomani_93
+  - first:
+      213: -1421609767340723245
+    second: DemonRomani_94
+  - first:
+      213: -2041185071904994369
+    second: DemonRomani_95
+  - first:
+      213: -5023436551224813977
+    second: DemonRomani_96
+  - first:
+      213: 664673774704726226
+    second: DemonRomani_97
+  - first:
+      213: -3330081793868038029
+    second: DemonRomani_98
+  - first:
+      213: -4235861422993537795
+    second: DemonRomani_99
+  - first:
+      213: 4176163768068099800
+    second: DemonRomani_100
+  - first:
+      213: 3517951694561956515
+    second: DemonRomani_101
+  - first:
+      213: 5432334296002245156
+    second: DemonRomani_102
+  - first:
+      213: -4319372650932208179
+    second: DemonRomani_103
+  - first:
+      213: -5755124426540369406
+    second: DemonRomani_104
+  - first:
+      213: 1905349820475250266
+    second: DemonRomani_105
+  - first:
+      213: 6860716551583652379
+    second: DemonRomani_106
+  - first:
+      213: -3662867843023832368
+    second: DemonRomani_107
+  - first:
+      213: -286950165439216817
+    second: DemonRomani_108
+  - first:
+      213: -5874276329265848757
+    second: DemonRomani_109
+  - first:
+      213: -1037444363709287701
+    second: DemonRomani_110
+  - first:
+      213: -8026217277044769780
+    second: DemonRomani_111
+  - first:
+      213: -1049088793405073900
+    second: DemonRomani_112
+  - first:
+      213: 4599244764983314785
+    second: DemonRomani_113
+  - first:
+      213: 5453850144307095177
+    second: DemonRomani_114
+  - first:
+      213: -4109495522927042411
+    second: DemonRomani_115
+  - first:
+      213: 5299374024699285002
+    second: DemonRomani_116
+  - first:
+      213: 294632218700679601
+    second: DemonRomani_117
+  - first:
+      213: -6559526462552882502
+    second: DemonRomani_118
+  - first:
+      213: -1704015228006031182
+    second: DemonRomani_119
+  - first:
+      213: 922005928677332569
+    second: DemonRomani_120
+  - first:
+      213: -6553033620721500535
+    second: DemonRomani_121
+  - first:
+      213: -3336845350420257103
+    second: DemonRomani_122
+  - first:
+      213: -2336153524631872813
+    second: DemonRomani_123
+  - first:
+      213: -2239896819107534767
+    second: DemonRomani_124
+  - first:
+      213: 6587995156914603452
+    second: DemonRomani_125
+  - first:
+      213: -701315573516634886
+    second: DemonRomani_126
+  - first:
+      213: 8282231420502103959
+    second: DemonRomani_127
+  - first:
+      213: -3145619482144422992
+    second: DemonRomani_128
+  - first:
+      213: -7523166800142487668
+    second: DemonRomani_129
+  - first:
+      213: -5573978090860516882
+    second: DemonRomani_130
+  - first:
+      213: -3317915867122897064
+    second: DemonRomani_131
+  - first:
+      213: -1309559680894517143
+    second: DemonRomani_132
+  - first:
+      213: 2458598072513487205
+    second: DemonRomani_133
+  - first:
+      213: 9107646438928412065
+    second: DemonRomani_134
+  - first:
+      213: 1974269819609126344
+    second: DemonRomani_135
+  - first:
+      213: -8237765374879626731
+    second: DemonRomani_136
+  - first:
+      213: 9111835697213828602
+    second: DemonRomani_137
+  - first:
+      213: 5238553199272393994
+    second: DemonRomani_138
+  - first:
+      213: 4309530747584542633
+    second: DemonRomani_139
+  - first:
+      213: 7142863464685751344
+    second: DemonRomani_140
+  - first:
+      213: 711594327661487546
+    second: DemonRomani_141
+  - first:
+      213: -6129421174527646743
+    second: DemonRomani_142
+  - first:
+      213: -1206237135222289358
+    second: DemonRomani_143
+  - first:
+      213: -3067826997060229648
+    second: DemonRomani_144
+  - first:
+      213: -5564353984581303038
+    second: DemonRomani_145
+  - first:
+      213: -6295993971234950149
+    second: DemonRomani_146
+  - first:
+      213: -4609000955812421662
+    second: DemonRomani_147
+  - first:
+      213: -2354076700091642527
+    second: DemonRomani_148
+  - first:
+      213: 1601376503564761697
+    second: DemonRomani_149
+  - first:
+      213: 5440563459537869942
+    second: DemonRomani_150
+  - first:
+      213: 7116682594060279461
+    second: DemonRomani_151
+  - first:
+      213: -6319142708184470372
+    second: DemonRomani_152
+  - first:
+      213: 1581707474226709099
+    second: DemonRomani_153
+  - first:
+      213: 8470931336819403832
+    second: DemonRomani_154
+  - first:
+      213: 7262917911508644963
+    second: DemonRomani_155
+  - first:
+      213: -82999125676351958
+    second: DemonRomani_156
+  - first:
+      213: -8878791105485790280
+    second: DemonRomani_157
+  - first:
+      213: 606523667350602626
+    second: DemonRomani_158
+  - first:
+      213: 4839280298003036648
+    second: DemonRomani_159
+  - first:
+      213: -5900629179963973644
+    second: DemonRomani_160
+  - first:
+      213: -3724241090905981275
+    second: DemonRomani_161
+  - first:
+      213: -5040054473948274068
+    second: DemonRomani_162
+  - first:
+      213: -3875221968531402800
+    second: DemonRomani_163
+  - first:
+      213: 1183342541949267013
+    second: DemonRomani_164
+  - first:
+      213: 6237967891457774084
+    second: DemonRomani_165
+  - first:
+      213: -439908477844549164
+    second: DemonRomani_166
+  - first:
+      213: -4738968833274267888
+    second: DemonRomani_167
+  - first:
+      213: -1246324852898701604
+    second: DemonRomani_168
+  - first:
+      213: 6886008104508877627
+    second: DemonRomani_169
+  - first:
+      213: 2200332536555765432
+    second: DemonRomani_170
+  - first:
+      213: -3968547732173078496
+    second: DemonRomani_171
+  - first:
+      213: 7138224073593112556
+    second: DemonRomani_172
+  - first:
+      213: 6569119806989621197
+    second: DemonRomani_173
+  - first:
+      213: 9119181607543394314
+    second: DemonRomani_174
+  - first:
+      213: 7128037119477569479
+    second: DemonRomani_175
+  - first:
+      213: -8335557827448294796
+    second: DemonRomani_176
+  - first:
+      213: -396544787368314804
+    second: DemonRomani_177
+  - first:
+      213: -3260219101352336716
+    second: DemonRomani_178
+  - first:
+      213: 8220224869510305984
+    second: DemonRomani_179
+  - first:
+      213: -5045263477829573414
+    second: DemonRomani_180
+  - first:
+      213: -1286335153924513156
+    second: DemonRomani_181
+  - first:
+      213: 2006839263747453527
+    second: DemonRomani_182
+  - first:
+      213: -743239827552629920
+    second: DemonRomani_183
+  - first:
+      213: 7715336024396089406
+    second: DemonRomani_184
+  - first:
+      213: -380842922616132442
+    second: DemonRomani_185
+  - first:
+      213: 9070120406833868085
+    second: DemonRomani_186
+  - first:
+      213: 8761170853045746420
+    second: DemonRomani_187
+  - first:
+      213: 7966657875841310595
+    second: DemonRomani_188
+  - first:
+      213: 7658486239954682153
+    second: DemonRomani_189
+  - first:
+      213: -6236055269478340056
+    second: DemonRomani_190
+  - first:
+      213: -8167844235031468460
+    second: DemonRomani_191
+  - first:
+      213: -3985637112429223750
+    second: DemonRomani_192
+  - first:
+      213: -7696232992711955679
+    second: DemonRomani_193
+  - first:
+      213: 3745927752263761487
+    second: DemonRomani_194
+  - first:
+      213: -5802027587196681919
+    second: DemonRomani_195
+  - first:
+      213: -8397629429512330240
+    second: DemonRomani_196
+  - first:
+      213: -4631139956007880440
+    second: DemonRomani_197
+  - first:
+      213: 115325691858170984
+    second: DemonRomani_198
+  - first:
+      213: 3791600842431149724
+    second: DemonRomani_199
+  - first:
+      213: -6582891316017414970
+    second: DemonRomani_200
+  - first:
+      213: -7435518756761996196
+    second: DemonRomani_201
+  - first:
+      213: -6830806744163354366
+    second: DemonRomani_202
+  - first:
+      213: -4367532094839681730
+    second: DemonRomani_203
+  - first:
+      213: 528032357033948166
+    second: DemonRomani_204
+  - first:
+      213: -2800725559524205344
+    second: DemonRomani_205
+  - first:
+      213: 4060651172008809259
+    second: DemonRomani_206
+  - first:
+      213: -1338180255096297445
+    second: DemonRomani_207
+  - first:
+      213: -6747690261877944509
+    second: DemonRomani_208
+  - first:
+      213: -2748770815738886517
+    second: DemonRomani_209
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonRomani_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1621
+        width: 1378
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2694f29d147bc7479e1c1c0c47b4f6c
+      internalID: 460699196857965359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_1
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1627
+        width: 1209
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620127cc0c234dd4a95370089ac0ff7d
+      internalID: 3679408048617477665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_2
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1633
+        width: 1006
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cc74c1db1fe3744aa717184db67a83
+      internalID: 6746717011216903408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_3
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1649
+        width: 984
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6375143ce53639488bc0bf901cb3b50
+      internalID: -6970579265731102937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_4
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 1632
+        width: 1131
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33759eccbdf5cf242a027628de5abf85
+      internalID: 8621737403648594537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_5
+      rect:
+        serializedVersion: 2
+        x: 7063
+        y: 1611
+        width: 1263
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21872a36eafdaca4a9f46f0e5d4e7e38
+      internalID: 2976336092956072696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_6
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 1589
+        width: 1312
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9362d074def5994497dbe8cda403123
+      internalID: 3908665752268001352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_7
+      rect:
+        serializedVersion: 2
+        x: 9808
+        y: 1594
+        width: 1378
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba7ad0ee9715cd48b1264d7327397e3
+      internalID: -8942986860710306366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 1378
+        height: 1034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef00e792b56ec41993088b456daf5c
+      internalID: 1945240468399152620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_9
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 227
+        width: 1209
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56af6319a8f644ca762412c279fe0e
+      internalID: -793441660369120963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_10
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 238
+        width: 1006
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a63681b067ea4593022e47cd3b799
+      internalID: -1880984605912543615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_11
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 249
+        width: 979
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4c0d1aeb707d4898f8c45dba2760a
+      internalID: -6093115437197210501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_12
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 167
+        width: 1131
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16b2543f0e24947abb8490ef5675b7
+      internalID: 7428605274459277332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_13
+      rect:
+        serializedVersion: 2
+        x: 7063
+        y: 211
+        width: 1257
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1fc190fff428489acce0a165459a0
+      internalID: -5136037280038008018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_14
+      rect:
+        serializedVersion: 2
+        x: 8539
+        y: 856
+        width: 252
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac26e0be0b56e04fa18c62df66d1830
+      internalID: -8243560557091755800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_15
+      rect:
+        serializedVersion: 2
+        x: 8791
+        y: 648
+        width: 421
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce54ecec53bd0e48a790e43de1ff8f4
+      internalID: -4285431912882375903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_16
+      rect:
+        serializedVersion: 2
+        x: 9190
+        y: 1162
+        width: 17
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d370477ef3de2443b308074cb040f54
+      internalID: -5520810193567762546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_17
+      rect:
+        serializedVersion: 2
+        x: 9218
+        y: 911
+        width: 174
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c803c6e924f457b4993c61fb7f2a6dcf
+      internalID: -2553420604053435174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_18
+      rect:
+        serializedVersion: 2
+        x: 10274
+        y: 752
+        width: 333
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ff6b0f4a860f4f9410ea54ba21ce1
+      internalID: -8117249848719168660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_19
+      rect:
+        serializedVersion: 2
+        x: 8447
+        y: 856
+        width: 109
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616027647b8192540bc4041a787b38fd
+      internalID: -6032318590196648023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_20
+      rect:
+        serializedVersion: 2
+        x: 8786
+        y: 954
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458f910585ba0b4f8e7c36393e9f60f
+      internalID: -503743900641799556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_21
+      rect:
+        serializedVersion: 2
+        x: 9393
+        y: 839
+        width: 355
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97120f5640e48a9448e1d0ab29de859d
+      internalID: -8944915137834762496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_22
+      rect:
+        serializedVersion: 2
+        x: 9814
+        y: 840
+        width: 224
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce36992ba4e51b47bd8ccb47d63bba0
+      internalID: -4814032825096388173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_23
+      rect:
+        serializedVersion: 2
+        x: 10043
+        y: 823
+        width: 219
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27b6a42831e084fb8e5f89bb09725b
+      internalID: 6980167530546611514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_24
+      rect:
+        serializedVersion: 2
+        x: 10694
+        y: 741
+        width: 279
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc0348176dc9d49a7305b057ab7d24
+      internalID: 5598383266026251965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_25
+      rect:
+        serializedVersion: 2
+        x: 8786
+        y: 916
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb2b82caaee8534981070afd056ea67
+      internalID: -8619555870770564783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_26
+      rect:
+        serializedVersion: 2
+        x: 9229
+        y: 829
+        width: 49
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac630f6026667e4d9a80f15b09dd557
+      internalID: 8613804450307061632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_27
+      rect:
+        serializedVersion: 2
+        x: 9354
+        y: 900
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286c0a0d05163b4eb53d997941be151
+      internalID: 7474492039123419075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_28
+      rect:
+        serializedVersion: 2
+        x: 10995
+        y: 845
+        width: 125
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af1c412c62820449d1e6de88aa9483
+      internalID: 3638273211502248590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_29
+      rect:
+        serializedVersion: 2
+        x: 11121
+        y: 889
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf39ddf4ad55f4e8ac248241628ed8
+      internalID: 4575235448577082293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_30
+      rect:
+        serializedVersion: 2
+        x: 9196
+        y: 883
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b496522e163794589f79162db4368d
+      internalID: 1298926987931105291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_31
+      rect:
+        serializedVersion: 2
+        x: 9294
+        y: 708
+        width: 82
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a644c51992b36842b9c6230e6ac137a
+      internalID: -8017740686171204733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_32
+      rect:
+        serializedVersion: 2
+        x: 9387
+        y: 736
+        width: 77
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f967a590fc0ff64d9e454d7e6f63a59
+      internalID: -2526144482363526405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_33
+      rect:
+        serializedVersion: 2
+        x: 10268
+        y: 889
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1538f9d25d294fa43aa2d85097d4c7f1
+      internalID: 3399898829561935760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_34
+      rect:
+        serializedVersion: 2
+        x: 10650
+        y: 867
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b36cd3971b7742acc94ca4180b18e
+      internalID: -4371422071585516029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_35
+      rect:
+        serializedVersion: 2
+        x: 10951
+        y: 883
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212de5a0d82fa82479be1603e5a9982a
+      internalID: 5956422118250927643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_36
+      rect:
+        serializedVersion: 2
+        x: 8786
+        y: 686
+        width: 87
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb4a4a9689b1fa43b540ec2ecadf0d1
+      internalID: -5368478284253832436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_37
+      rect:
+        serializedVersion: 2
+        x: 10273
+        y: 867
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70deaaa553323449aa190b12403cdb
+      internalID: -5487500243315180294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_38
+      rect:
+        serializedVersion: 2
+        x: 10962
+        y: 840
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ab003d01d1ef46b723e049d3cd6ab
+      internalID: 576800432256043876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_39
+      rect:
+        serializedVersion: 2
+        x: 8731
+        y: 845
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a40089ffb7d54bb5cca7f0d17f9b0
+      internalID: 1911922146273310471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_40
+      rect:
+        serializedVersion: 2
+        x: 10180
+        y: 818
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f5cc31ce36e64699771839352dd94
+      internalID: 1124391404627248141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_41
+      rect:
+        serializedVersion: 2
+        x: 10273
+        y: 823
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb487713166514293c1d2de1d27a05
+      internalID: -5557463955877818635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_42
+      rect:
+        serializedVersion: 2
+        x: 10607
+        y: 812
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bfce8396b4e54ba9af1d116f133a1
+      internalID: 2333247795467166985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_43
+      rect:
+        serializedVersion: 2
+        x: 8731
+        y: 801
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2c3b7effd7ea4a9016ad44f021caa
+      internalID: -9158333393427163760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_44
+      rect:
+        serializedVersion: 2
+        x: 9212
+        y: 812
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b4fcaa6a999548856e072c4885ac9
+      internalID: -1789979142917005605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_45
+      rect:
+        serializedVersion: 2
+        x: 9464
+        y: 730
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59682a105cea915469d3c36fe335d6cd
+      internalID: -6286859371442206922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_46
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 796
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eadd99d08170f46b3bfa8b662c98ec
+      internalID: 1300367321886547022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_47
+      rect:
+        serializedVersion: 2
+        x: 10257
+        y: 790
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4d9719d8e4304a9ea337fd25f7b21
+      internalID: -856296456799865048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_48
+      rect:
+        serializedVersion: 2
+        x: 8654
+        y: 719
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d8179c3701c64ab5e8d33b1b3d379
+      internalID: 363320238860218246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_49
+      rect:
+        serializedVersion: 2
+        x: 8747
+        y: 725
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e55c52d2fba5b459611079cfa873b8
+      internalID: -8582579294392210984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_50
+      rect:
+        serializedVersion: 2
+        x: 9179
+        y: 774
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feeedfb434a4c24d8709b7275c6954d
+      internalID: -5292268340264252187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_51
+      rect:
+        serializedVersion: 2
+        x: 10087
+        y: 692
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259cfb1d89d73e347bd06b998c05209a
+      internalID: 4312893052341544666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_52
+      rect:
+        serializedVersion: 2
+        x: 10191
+        y: 796
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b418e0efca18745a194dbf19875672
+      internalID: 2677015671259121792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_53
+      rect:
+        serializedVersion: 2
+        x: 10607
+        y: 785
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964d46f88813e144982df40f566cc49
+      internalID: 1512299250291378251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_54
+      rect:
+        serializedVersion: 2
+        x: 8693
+        y: 665
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a60db89ab2b1e4fa89e9fe7faedd1c
+      internalID: 335861311212397063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_55
+      rect:
+        serializedVersion: 2
+        x: 9508
+        y: 768
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e025a88b5fa50479282d59b55c87f3
+      internalID: -93319402028873746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_56
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 752
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c5f65781634e54d9d5e34068d3a195
+      internalID: -1494453580571251546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_57
+      rect:
+        serializedVersion: 2
+        x: 10191
+        y: 692
+        width: 27
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e83ec8c6879d6e4196f0b5fa59d2fde
+      internalID: 4387424304689596785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_58
+      rect:
+        serializedVersion: 2
+        x: 10306
+        y: 747
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9206ff6c99856c44587f5f8a3722a00c
+      internalID: -6873821281180981231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_59
+      rect:
+        serializedVersion: 2
+        x: 10661
+        y: 779
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba9d61f0596be4429f26ab4727a2ae0
+      internalID: -337704556247152791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_60
+      rect:
+        serializedVersion: 2
+        x: 9179
+        y: 582
+        width: 82
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de733dd15ad93dc4592b3378bbf087a1
+      internalID: 1745437368253068464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_61
+      rect:
+        serializedVersion: 2
+        x: 9447
+        y: 479
+        width: 131
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ccab23b7204e488369711b1b0e7ef
+      internalID: 2967754332506286799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_62
+      rect:
+        serializedVersion: 2
+        x: 10065
+        y: 747
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e76219bf794747915e216aba08317
+      internalID: -8302511838149018977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_63
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 681
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c6242263e9934587297350e6c0385
+      internalID: 7632275339141071841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_64
+      rect:
+        serializedVersion: 2
+        x: 10497
+        y: 747
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f883cc7bcfa3a0a41a430b7965a19b9f
+      internalID: -6732287456430537506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_65
+      rect:
+        serializedVersion: 2
+        x: 10672
+        y: 752
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a35792413d87469c6a3e2826f50f8
+      internalID: -723062665390812551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_66
+      rect:
+        serializedVersion: 2
+        x: 10897
+        y: 692
+        width: 21
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54337ac071af3ba4baa5942f1dab58d3
+      internalID: -544895520400882779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_67
+      rect:
+        serializedVersion: 2
+        x: 9436
+        y: 719
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5972eb1758e34c84ef081a98a117b
+      internalID: -8746053906501356181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_68
+      rect:
+        serializedVersion: 2
+        x: 10043
+        y: 593
+        width: 60
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d930eaa15ea3242878ebb38bfe1ffc
+      internalID: -5026123236010661900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_69
+      rect:
+        serializedVersion: 2
+        x: 10273
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7f2488f8d85a340ab847968e3a39a1
+      internalID: -6776866389311543003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_70
+      rect:
+        serializedVersion: 2
+        x: 10317
+        y: 719
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c39ab193ca56468a0c979ee42642b
+      internalID: 1524479932458786309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_71
+      rect:
+        serializedVersion: 2
+        x: 10486
+        y: 714
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c2fa9bd927be24da014dbd6f6bf31d
+      internalID: -4775022799689835867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_72
+      rect:
+        serializedVersion: 2
+        x: 10552
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0a7bbd696733e45b6c3752832d8612
+      internalID: 2712474395295196183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_73
+      rect:
+        serializedVersion: 2
+        x: 10755
+        y: 736
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f325443a08c343ad299ccfce50c93
+      internalID: -58376715979460916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_74
+      rect:
+        serializedVersion: 2
+        x: 8611
+        y: 544
+        width: 54
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64618e1301ac531498bc5d942f5e4310
+      internalID: 8872990426858250387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_75
+      rect:
+        serializedVersion: 2
+        x: 10027
+        y: 714
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089e767d52bded40a6eb0182e5406e9
+      internalID: -4187310044340309524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_76
+      rect:
+        serializedVersion: 2
+        x: 10755
+        y: 703
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24062ad714bdabc4e908353e879302ac
+      internalID: 4114187459617495747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_77
+      rect:
+        serializedVersion: 2
+        x: 8961
+        y: 501
+        width: 82
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0de2866f8d4c654bbd25287f16c9846
+      internalID: 387796996749506810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_78
+      rect:
+        serializedVersion: 2
+        x: 9343
+        y: 697
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920a11480fe2fd541bd6232ad27a4ee7
+      internalID: 3637156238936701298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_79
+      rect:
+        serializedVersion: 2
+        x: 10454
+        y: 697
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095d533218bd2b4f8e3a60e63a8ede2
+      internalID: 5662537907662797196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_80
+      rect:
+        serializedVersion: 2
+        x: 10519
+        y: 692
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a815fd03cfc1d8458894ecfc4529947
+      internalID: 2650759416786258694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_81
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 692
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7b129f4a6dad4182dabf92795ac8f
+      internalID: 8247238519101099534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_82
+      rect:
+        serializedVersion: 2
+        x: 10744
+        y: 686
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7d344f0676b941a22537bf9fd2b93
+      internalID: 6400872825900026075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_83
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 632
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5becb02f414bb1f4baf9984ad1dff545
+      internalID: -475519400289303362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_84
+      rect:
+        serializedVersion: 2
+        x: 8745
+        y: 626
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba790d0fed779ed46ba388fb049b5271
+      internalID: 2888794845116706448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_85
+      rect:
+        serializedVersion: 2
+        x: 8846
+        y: 637
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754f9c6f89fbda42b40c90c14294066
+      internalID: 4814649608577548374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_86
+      rect:
+        serializedVersion: 2
+        x: 8933
+        y: 643
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3dae98540f2d429c1b4d19519fae5
+      internalID: 1283867880350756460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_87
+      rect:
+        serializedVersion: 2
+        x: 9278
+        y: 670
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f092652b65614a971dcae1ff2c31e
+      internalID: -2500026636940720917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_88
+      rect:
+        serializedVersion: 2
+        x: 9322
+        y: 648
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a66f90d38c9848b13f47cc25319b3
+      internalID: 154435043791772327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_89
+      rect:
+        serializedVersion: 2
+        x: 9349
+        y: 673
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b9b2014891d3a45ba2dd6d54b4fbf5
+      internalID: -4897681768686000838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_90
+      rect:
+        serializedVersion: 2
+        x: 9382
+        y: 675
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd6843d0438f94ba04062714bc634b
+      internalID: 5998970398264139736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_91
+      rect:
+        serializedVersion: 2
+        x: 10158
+        y: 648
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce577118919a6a49b074ddc5864449b
+      internalID: -3848063803488380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_92
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 665
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4559fa80f9018c4381a3b68bf395a67
+      internalID: 7161124171827983680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_93
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 673
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b8f6f9a87a644eb9f664dd11fe412
+      internalID: -4460159262905528438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_94
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 659
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd233943ac2d5a0408e0657a139abeee
+      internalID: -1421609767340723245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_95
+      rect:
+        serializedVersion: 2
+        x: 10727
+        y: 659
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd7280e821d4234d88134118dea8ad6
+      internalID: -2041185071904994369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_96
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 643
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88109a35a3fdf442860ec651abb574e
+      internalID: -5023436551224813977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_97
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 577
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763ec41ea67aa544a848697256b0f4b
+      internalID: 664673774704726226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_98
+      rect:
+        serializedVersion: 2
+        x: 9382
+        y: 637
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef993f78b102f24089ab0de8b8136d1
+      internalID: -3330081793868038029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_99
+      rect:
+        serializedVersion: 2
+        x: 10197
+        y: 654
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9540c229a2daa40be5d0e9195002bc
+      internalID: -4235861422993537795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_100
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 588
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2303acb6456f14e44ace395486376a67
+      internalID: 4176163768068099800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_101
+      rect:
+        serializedVersion: 2
+        x: 10295
+        y: 643
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7d248ac987e748a49e0be970421fb
+      internalID: 3517951694561956515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_102
+      rect:
+        serializedVersion: 2
+        x: 10388
+        y: 659
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e85a868430f894d9ca9a5b7a91f63c
+      internalID: 5432334296002245156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_103
+      rect:
+        serializedVersion: 2
+        x: 9103
+        y: 615
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4142c7c82c9ac245a697f7b8c082e02
+      internalID: -4319372650932208179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_104
+      rect:
+        serializedVersion: 2
+        x: 9425
+        y: 621
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b595a99306eb46a70193bb6c93e67
+      internalID: -5755124426540369406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_105
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 637
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875fdec645732d946abff0c66bf0e112
+      internalID: 1905349820475250266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_106
+      rect:
+        serializedVersion: 2
+        x: 10902
+        y: 643
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41352560338357c4082d2b97eca1ba82
+      internalID: 6860716551583652379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_107
+      rect:
+        serializedVersion: 2
+        x: 8933
+        y: 610
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a142e494ffd70e45820616e0fcd56df
+      internalID: -3662867843023832368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_108
+      rect:
+        serializedVersion: 2
+        x: 9152
+        y: 626
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca895295bd8ed499b13a3f0b09225a
+      internalID: -286950165439216817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_109
+      rect:
+        serializedVersion: 2
+        x: 9322
+        y: 626
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301a04798960a54f923af02ac5aa920
+      internalID: -5874276329265848757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_110
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 615
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c622d1fbe9a224ebca6cc1afcd4a30
+      internalID: -1037444363709287701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_111
+      rect:
+        serializedVersion: 2
+        x: 10207
+        y: 511
+        width: 17
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b191930f0fcc374688d1503206cfcc1
+      internalID: -8026217277044769780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_112
+      rect:
+        serializedVersion: 2
+        x: 10579
+        y: 593
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a033cc625d7564f8a0b1513a71ac50
+      internalID: -1049088793405073900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_113
+      rect:
+        serializedVersion: 2
+        x: 10601
+        y: 599
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b2827dfd898a4889b4661a8856a84
+      internalID: 4599244764983314785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_114
+      rect:
+        serializedVersion: 2
+        x: 10891
+        y: 528
+        width: 27
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5325ebf5ef5881d4485e8d74ae94d877
+      internalID: 5453850144307095177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_115
+      rect:
+        serializedVersion: 2
+        x: 8736
+        y: 593
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8a4c02539003418ad1c4172d6c72d
+      internalID: -4109495522927042411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_116
+      rect:
+        serializedVersion: 2
+        x: 9267
+        y: 610
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d748e9cf408d479351ca6bfead0f3
+      internalID: 5299374024699285002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_117
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 588
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272d5c1a44b1604b853707d4aa4fcf8
+      internalID: 294632218700679601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_118
+      rect:
+        serializedVersion: 2
+        x: 10755
+        y: 604
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a575255e58bb946bc000d97dc8b4bd
+      internalID: -6559526462552882502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_119
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 550
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398896d3c881f44dac3dd661d3e0468
+      internalID: -1704015228006031182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_120
+      rect:
+        serializedVersion: 2
+        x: 8939
+        y: 583
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd0981a18f8f847bf4cd3e93d13f68
+      internalID: 922005928677332569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_121
+      rect:
+        serializedVersion: 2
+        x: 9125
+        y: 582
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1565d4040d52d4fb2cf82932a02550
+      internalID: -6553033620721500535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_122
+      rect:
+        serializedVersion: 2
+        x: 9174
+        y: 588
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7232d02279f44c4584d8c4b4a15bbf9
+      internalID: -3336845350420257103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_123
+      rect:
+        serializedVersion: 2
+        x: 9333
+        y: 593
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcda0cec3c5f74ba60d42278bc94fe
+      internalID: -2336153524631872813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_124
+      rect:
+        serializedVersion: 2
+        x: 9425
+        y: 593
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bbc2c056963049974e4db8b315a9f
+      internalID: -2239896819107534767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_125
+      rect:
+        serializedVersion: 2
+        x: 10428
+        y: 588
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796118813abda8e43b47caa97aee8ab3
+      internalID: 6587995156914603452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_126
+      rect:
+        serializedVersion: 2
+        x: 10492
+        y: 593
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90c5fb7d2cd5a46adb03ef74f2bd18
+      internalID: -701315573516634886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_127
+      rect:
+        serializedVersion: 2
+        x: 10618
+        y: 572
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ebefbceaa12543b425932d31424a5
+      internalID: 8282231420502103959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_128
+      rect:
+        serializedVersion: 2
+        x: 8818
+        y: 572
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7fb9c803b42774586244b1f0d13085
+      internalID: -3145619482144422992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_129
+      rect:
+        serializedVersion: 2
+        x: 8862
+        y: 189
+        width: 284
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269f926ce3936844ab8ae540ba4e691
+      internalID: -7523166800142487668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_130
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 577
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725db4ce11cead7448cbe79b31813de8
+      internalID: -5573978090860516882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_131
+      rect:
+        serializedVersion: 2
+        x: 9152
+        y: 189
+        width: 241
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e92861c67cb7d409efb3b3a381e9eb
+      internalID: -3317915867122897064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_132
+      rect:
+        serializedVersion: 2
+        x: 10099
+        y: 572
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ffe6f20e5315d4ca90d0cfdfae1027
+      internalID: -1309559680894517143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_133
+      rect:
+        serializedVersion: 2
+        x: 10508
+        y: 577
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb470374f53b15429f99b6cd3a7b7cc
+      internalID: 2458598072513487205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_134
+      rect:
+        serializedVersion: 2
+        x: 10667
+        y: 572
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622bc87ebf995042b343caa081b4d86
+      internalID: 9107646438928412065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_135
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 511
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e9721c28f7a5468ad8ad457dfcc19
+      internalID: 1974269819609126344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_136
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d902e21defa2a4db30507ed24a9049
+      internalID: -8237765374879626731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_137
+      rect:
+        serializedVersion: 2
+        x: 10087
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc55eb00e1cd24d88bac08286cea81
+      internalID: 9111835697213828602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_138
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 561
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858f53982d38d44c895fa5898393f9c
+      internalID: 5238553199272393994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_139
+      rect:
+        serializedVersion: 2
+        x: 10344
+        y: 561
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dfc368cf8a489469c2cb9a0cd581c6
+      internalID: 4309530747584542633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_140
+      rect:
+        serializedVersion: 2
+        x: 10525
+        y: 511
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa6ce834561e543b18aef07425aae0
+      internalID: 7142863464685751344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_141
+      rect:
+        serializedVersion: 2
+        x: 10568
+        y: 555
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3ba123c6db4704a99e3ea15aa07412
+      internalID: 711594327661487546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_142
+      rect:
+        serializedVersion: 2
+        x: 10054
+        y: 473
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975954ded4c8a942adaec7c03bf215a
+      internalID: -6129421174527646743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_143
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 533
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16577cdc2a048104c99d266aa1bfbe40
+      internalID: -1206237135222289358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_144
+      rect:
+        serializedVersion: 2
+        x: 10492
+        y: 539
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16a30b1aea24a41a23f61df89c395e
+      internalID: -3067826997060229648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_145
+      rect:
+        serializedVersion: 2
+        x: 10634
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27699822d5878ff4e978a9430275b039
+      internalID: -5564353984581303038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_146
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864b48d4bb2ccf4b9f5e06ff158018b
+      internalID: -6295993971234950149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_147
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 517
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4338628a67ceb4189e3d379cdad14e
+      internalID: -4609000955812421662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_148
+      rect:
+        serializedVersion: 2
+        x: 8851
+        y: 479
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5bb982236f684795cc7e428e603be
+      internalID: -2354076700091642527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_149
+      rect:
+        serializedVersion: 2
+        x: 9404
+        y: 457
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e111d31686b24044be55612ebb24f58
+      internalID: 1601376503564761697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_150
+      rect:
+        serializedVersion: 2
+        x: 10142
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58ef0b54214144eb0ae4d894fb6392
+      internalID: 5440563459537869942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_151
+      rect:
+        serializedVersion: 2
+        x: 10268
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587c07db2d0c7f4e8b7ef3d8bef3c2f
+      internalID: 7116682594060279461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_152
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 512
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f420a4567905034d998349f18a117a7
+      internalID: -6319142708184470372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_153
+      rect:
+        serializedVersion: 2
+        x: 10459
+        y: 512
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44afa35934e0349bfee1a501535814
+      internalID: 1581707474226709099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_154
+      rect:
+        serializedVersion: 2
+        x: 10492
+        y: 517
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5a3a4b807902469d18d099e48e49a
+      internalID: 8470931336819403832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_155
+      rect:
+        serializedVersion: 2
+        x: 10612
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85acc26a91483441896571d3c86de37
+      internalID: 7262917911508644963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_156
+      rect:
+        serializedVersion: 2
+        x: 10831
+        y: 517
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73b4bcdbae4914e9ccf65e85f3e538
+      internalID: -82999125676351958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_157
+      rect:
+        serializedVersion: 2
+        x: 8627
+        y: 468
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c9f9057ea84749a3edbc00866a369
+      internalID: -8878791105485790280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_158
+      rect:
+        serializedVersion: 2
+        x: 8764
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc4ae5929061764fbfd3b54f11da293
+      internalID: 606523667350602626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_159
+      rect:
+        serializedVersion: 2
+        x: 9464
+        y: 457
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b22b6926ac184ba46a8076657eed9
+      internalID: 4839280298003036648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_160
+      rect:
+        serializedVersion: 2
+        x: 10147
+        y: 495
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c8e9c9856fff429b723f3befe92a5
+      internalID: -5900629179963973644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_161
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 418
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb95b7bdd44fda4d84fb3f82fc2349d
+      internalID: -3724241090905981275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_162
+      rect:
+        serializedVersion: 2
+        x: 10317
+        y: 468
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f994001625f90f94eb741778db9e63d1
+      internalID: -5040054473948274068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_163
+      rect:
+        serializedVersion: 2
+        x: 10607
+        y: 495
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42b30bfbc1adbf44a52584d0de16466
+      internalID: -3875221968531402800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_164
+      rect:
+        serializedVersion: 2
+        x: 10891
+        y: 506
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b9202049307ed4186fcb6d4cb9563c
+      internalID: 1183342541949267013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_165
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 484
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8da2d1284ab246811183c67f10367
+      internalID: 6237967891457774084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_166
+      rect:
+        serializedVersion: 2
+        x: 10743
+        y: 484
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5dad8a725227469c10558cb59353f
+      internalID: -439908477844549164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_167
+      rect:
+        serializedVersion: 2
+        x: 10848
+        y: 490
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2037bc195816794b99297528e49e15c
+      internalID: -4738968833274267888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_168
+      rect:
+        serializedVersion: 2
+        x: 8720
+        y: 462
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78232010d7b4ed9409881e7324c7e8f6
+      internalID: -1246324852898701604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_169
+      rect:
+        serializedVersion: 2
+        x: 10120
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cd6e5800872d44918a26a335bfa10
+      internalID: 6886008104508877627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_170
+      rect:
+        serializedVersion: 2
+        x: 10148
+        y: 473
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ff61cbc4055c4aa37f8fc75220e29
+      internalID: 2200332536555765432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_171
+      rect:
+        serializedVersion: 2
+        x: 10585
+        y: 358
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264255193b794d8408733e87be7f86c9
+      internalID: -3968547732173078496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_172
+      rect:
+        serializedVersion: 2
+        x: 10848
+        y: 473
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf84a6722c050479d9a14893301fcc
+      internalID: 7138224073593112556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_173
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 468
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd90d623ce2274b850ecba22db660e
+      internalID: 6569119806989621197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_174
+      rect:
+        serializedVersion: 2
+        x: 8753
+        y: 429
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265259e5a6008e4aa7899188137568d
+      internalID: 9119181607543394314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_175
+      rect:
+        serializedVersion: 2
+        x: 9404
+        y: 435
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6756f963f082498a49c03e92dc835
+      internalID: 7128037119477569479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_176
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 440
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f1c2d70953914e89c3213883e7df9
+      internalID: -8335557827448294796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_177
+      rect:
+        serializedVersion: 2
+        x: 10350
+        y: 315
+        width: 43
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7447e39c6e28e549ab8ed415b8d0459
+      internalID: -396544787368314804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_178
+      rect:
+        serializedVersion: 2
+        x: 10393
+        y: 435
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf9e33ee8b31e41aef2e4c561223cc
+      internalID: -3260219101352336716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_179
+      rect:
+        serializedVersion: 2
+        x: 10437
+        y: 402
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1c4d1997b3b541b81e56e5d100ae4
+      internalID: 8220224869510305984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_180
+      rect:
+        serializedVersion: 2
+        x: 10492
+        y: 451
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284d6aaf5b48b544ae5a280cd318738
+      internalID: -5045263477829573414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_181
+      rect:
+        serializedVersion: 2
+        x: 10519
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e92646658716a140b3a4f7e22ea9b7c
+      internalID: -1286335153924513156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_182
+      rect:
+        serializedVersion: 2
+        x: 10683
+        y: 451
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cdd533a26931846b2d950ba5e0d1eb
+      internalID: 2006839263747453527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_183
+      rect:
+        serializedVersion: 2
+        x: 10798
+        y: 435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ddf7ae97f4ab4ba346388e69bf0a2
+      internalID: -743239827552629920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_184
+      rect:
+        serializedVersion: 2
+        x: 8764
+        y: 254
+        width: 98
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d3bc30c1a5854d89d8d28f9c44f5b
+      internalID: 7715336024396089406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_185
+      rect:
+        serializedVersion: 2
+        x: 10300
+        y: 418
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15039b14898d64499175bb66aac2d2
+      internalID: -380842922616132442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_186
+      rect:
+        serializedVersion: 2
+        x: 10492
+        y: 364
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e2c5531d125646bdb2cd29a6dc7e8
+      internalID: 9070120406833868085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_187
+      rect:
+        serializedVersion: 2
+        x: 10754
+        y: 429
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9536a284a90d6438ed6521ba03f47e
+      internalID: 8761170853045746420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_188
+      rect:
+        serializedVersion: 2
+        x: 10197
+        y: 408
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f1a3f18bc59741903db5e28e90a47
+      internalID: 7966657875841310595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_189
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 391
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c995b7ada51822459f346d7941d40b5
+      internalID: 7658486239954682153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_190
+      rect:
+        serializedVersion: 2
+        x: 10279
+        y: 353
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7df5069547104dbaf566c832a3df8
+      internalID: -6236055269478340056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_191
+      rect:
+        serializedVersion: 2
+        x: 10749
+        y: 391
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4b680967409242bda165d997bea23
+      internalID: -8167844235031468460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_192
+      rect:
+        serializedVersion: 2
+        x: 9376
+        y: 375
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4cc599ffed5e54b90e92bfdd00dabb
+      internalID: -3985637112429223750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_193
+      rect:
+        serializedVersion: 2
+        x: 10252
+        y: 265
+        width: 43
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257788443f243604b9a12ec57d1f500f
+      internalID: -7696232992711955679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_194
+      rect:
+        serializedVersion: 2
+        x: 10426
+        y: 364
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9625dc478694324bab8ef81f8eed81c
+      internalID: 3745927752263761487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_195
+      rect:
+        serializedVersion: 2
+        x: 10563
+        y: 386
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6db68f37215f6479b49dd5c95aa04e
+      internalID: -5802027587196681919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_196
+      rect:
+        serializedVersion: 2
+        x: 10700
+        y: 347
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec77a740342804cbaf44deaf802ce8
+      internalID: -8397629429512330240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_197
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 256
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed63464cb308d42bc8e31e25c03d41
+      internalID: -4631139956007880440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_198
+      rect:
+        serializedVersion: 2
+        x: 10426
+        y: 337
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a736294b681b4d980757ee987b194
+      internalID: 115325691858170984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_199
+      rect:
+        serializedVersion: 2
+        x: 10563
+        y: 320
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55803e25c00ef1848ac85096ae6cda1b
+      internalID: 3791600842431149724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_200
+      rect:
+        serializedVersion: 2
+        x: 10667
+        y: 353
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6068756b5913d274c91cc228ac72aa59
+      internalID: -6582891316017414970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_201
+      rect:
+        serializedVersion: 2
+        x: 10705
+        y: 265
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8151728710610441923794bbbdef798
+      internalID: -7435518756761996196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_202
+      rect:
+        serializedVersion: 2
+        x: 10787
+        y: 293
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff15a45194163546a1cd84019398376
+      internalID: -6830806744163354366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_203
+      rect:
+        serializedVersion: 2
+        x: 9387
+        y: 287
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dbcb1b8dd3e074e8b2c3b414c69d98
+      internalID: -4367532094839681730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_204
+      rect:
+        serializedVersion: 2
+        x: 10629
+        y: 315
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5bb6569e78f4344910dadc78122b0e
+      internalID: 528032357033948166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_205
+      rect:
+        serializedVersion: 2
+        x: 10355
+        y: 194
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e59bc16eb9c14e8896d424faef9b4
+      internalID: -2800725559524205344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_206
+      rect:
+        serializedVersion: 2
+        x: 10580
+        y: 276
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ec72f161d02b24086bdf1951c2852a
+      internalID: 4060651172008809259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_207
+      rect:
+        serializedVersion: 2
+        x: 10612
+        y: 200
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01be68868bbe247ad5557939f5c89e
+      internalID: -1338180255096297445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_208
+      rect:
+        serializedVersion: 2
+        x: 10328
+        y: 205
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3be287e4dbcb94e9e104402bb54288
+      internalID: -6747690261877944509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonRomani_209
+      rect:
+        serializedVersion: 2
+        x: 10568
+        y: 211
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a9df1b100ba04eabf6f2838381b33
+      internalID: -2748770815738886517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
